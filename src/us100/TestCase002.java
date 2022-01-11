@@ -3,8 +3,9 @@ package us100;
 public class TestCase002 {
 
     public static void main(String[] args) {
-        String str = "HelloWorld";
+        String s ="I love Java";
+        String str = "Hello World";
 
-        System.out.println(str);
+        System.out.println(str+ s);
     }
 }
